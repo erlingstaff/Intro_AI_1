@@ -1,10 +1,10 @@
 # Intro_AI_1
 DAVE3625 Oblig 1
 
-Kristian Smedsrød - s354374
-Erling Mathias Staff - s354344
-Ole Jørgen Knoph - s354371
-Sindre Cockerell Fladvad - s354420
+Kristian Smedsrød - s354374 <br>
+Erling Mathias Staff - s354344 <br>
+Ole Jørgen Knoph - s354371 <br>
+Sindre Cockerell Fladvad - s354420 
 
 ## Features:
 
