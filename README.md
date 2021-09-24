@@ -1,6 +1,11 @@
 # Intro_AI_1
 DAVE3625 Oblig 1
 
+Kristian Smedsrød - s354374
+Erling Mathias Staff - s354344
+Ole Jørgen Knoph - s354371
+Sindre Cockerell Fladvad - s354420
+
 ## Features:
 
 1. "Passasjerer_I_Bussen" - Amount of Passangers in the bus
